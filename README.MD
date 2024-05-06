@@ -3,7 +3,8 @@
 </div>
 
 # Projeto Podcast Gerado Por I.A's 🤖
-> ⚠️ Esse Projeto foi feito para ser entregue ao Bootcamp: Fundamentos de IA para Devs, na Plataforma da [DIO](https://www.dio.me/)
+> ⚠️ Esse Projeto foi feito para ser entregue ao Bootcamp: Fundamentos de IA para Devs, na Plataforma da [DIO](https://www.dio.me/).
+
 Projeto com o objetivo de criar um podcast com I.A's, por meio de promts mais inteligentes.
 ## Tecnologias Ultilizadas no Projeto 💻
 - [ChatGPT](https://chat.openai.com/)
