@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Assets/Banner.png" alt="Banner" title="Banner" style="height: 600px">
+  <img src="/Assets/Banner.png" alt="Banner" title="Banner">
 </div>
 
 # Projeto Podcast Gerado Por I.A's 🤖
