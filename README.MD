@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Assets/Banner.png" alt="Banner" title="Banner">
+  <img src="/Assets/Banner.png" alt="Banner" title="Banner" style="height: 600px">
 </div>
 
 # Projeto Podcast Gerado Por I.A's 🤖
@@ -17,7 +17,7 @@ Projeto com o objetivo de criar um podcast com I.A's, por meio de promts mais in
 - Capas: Leonardo.AI
 - Edição: CapCut
 
-## Promt ChatGPT ✒️
+## Prompt ChatGPT ✒️
 
 ### Titúlos:
 ```
